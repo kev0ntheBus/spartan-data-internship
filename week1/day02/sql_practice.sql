@@ -56,3 +56,32 @@ SELECT name, age
 FROM employees
 ORDER BY age DESC
 LIMIT 2;
+
+SELECT *
+FROM employees
+WHERE age < 32;
+
+SELECT *
+FROM employees
+WHERE name ILIKE '%a%';
+
+SELECT
+    name,
+    salary
+FROM employees
+ORDER BY salary DESC;
+
+SELECT 
+    city, 
+    COUNT(*)
+FROM employees
+GROUP BY city
+ORDER BY COUNT(*) DESC;
+
+SELECT 
+    department, 
+    AVG(salary)
+FROM employees
+GROUP BY department
+HAVING AVG(salary) > 75000
+ORDER BY AVG(salary) DESC;
