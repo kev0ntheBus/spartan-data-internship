@@ -1,0 +1,1 @@
+Started going from the fundamentals to drilling on the fundamentals while slowly introducing more and more fundamentals at a time.

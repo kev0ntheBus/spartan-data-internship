@@ -1,0 +1,1 @@
+Continued again with more drills on basics, introducing more basics, and gearing up for day 4 introducing reading alongside the structured learning.
