@@ -1,0 +1,3 @@
+This is a tiny text file for Week 1 Day 1.
+Practice reading files slowly.
+The goal is to understand paths, not to memorize everything immediately.
